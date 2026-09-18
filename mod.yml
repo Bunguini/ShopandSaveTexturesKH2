@@ -1,0 +1,53 @@
+title: Shop and Save Textures
+original_author: Bunguini
+description: Replaces both save point types and the shop crystal. Paopu themed
+
+assets:
+
+  # ==========================================
+  # SAVE & WORLD POINTS
+  # ==========================================
+  - name: remastered/obj/SHOP_POINT.a.us/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/SHOP_POINT.a.us/-0.dds
+  - name: remastered/obj/SHOP_POINT.a.us/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/SHOP_POINT.a.us/-1.dds
+  - name: remastered/obj/SHOP_POINT.a.us/-2.dds
+    method: copy
+    source:
+      - name: remastered/obj/SHOP_POINT.a.us/-2.dds
+  - name: remastered/obj/SHOP_POINT_LOW.a.us/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/SHOP_POINT_LOW.a.us/-0.dds
+  - name: remastered/obj/SHOP_POINT_LOW.a.us/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/SHOP_POINT_LOW.a.us/-1.dds
+  - name: remastered/obj/SHOP_POINT_LOW.a.us/-2.dds
+    method: copy
+    source:
+      - name: remastered/obj/SHOP_POINT_LOW.a.us/-2.dds
+  - name: remastered/obj/SAVE_POINT.a.us/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/SAVE_POINT.a.us/-0.dds
+  - name: remastered/obj/SAVE_POINT.a.us/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/SAVE_POINT.a.us/-1.dds
+  - name: remastered/obj/WORLD_POINT.a.us/-0.dds
+    method: copy
+    source:
+      - name: remastered/obj/WORLD_POINT.a.us/-0.dds
+  - name: remastered/obj/WORLD_POINT.a.us/-1.dds
+    method: copy
+    source:
+      - name: remastered/obj/WORLD_POINT.a.us/-1.dds
+  - name: remastered/effect/texcommon.dpd/-0.dds
+    method: copy
+    source:
+      - name: remastered/effect/texcommon.dpd/-0.dds
